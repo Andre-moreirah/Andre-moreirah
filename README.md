@@ -4,7 +4,7 @@
 - 🌱 Estudo Análise e desenvolvimento de sistema
 - 📩 Contato: andre21212@hotmail.com
 
-# 👩🏻‍💻 André Moreira
+# 👨‍💻 André Moreira
 
 **`Análise e desenvolvimento de sistema`**
 
