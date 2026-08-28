@@ -1,6 +1,6 @@
 ## Olá, me chamo André moreira 👋
 
-- 🔭 Atualmente näo trabalho na área. 
+
 - 🌱 Estudo Análise e desenvolvimento de sistema
 - 📩 Contato: andre21212@hotmail.com
 
