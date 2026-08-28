@@ -1,86 +1,60 @@
-## Olá, me chamo André moreira 👋
+# 👋 Olá, eu sou André Moreira
 
+💻 **Desenvolvedor em formação** 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-- 🌱 Estudo Análise e desenvolvimento de sistema
-- 📩 Contato: andre21212@hotmail.com
+Atualmente estou desenvolvendo minhas habilidades em programação, com foco em **Python, C, Ruby on Rails, Ubuntu, banco de dados e desenvolvimento de software**.
 
-# 👨‍💻 André Moreira
-
-**`Análise e desenvolvimento de sistema`**
+Tenho utilizado o GitHub para registrar minha evolução, praticar os conceitos estudados e desenvolver projetos próprios.
 
 ---
 
-<div> 
+## 🛠️ Tecnologias e Ferramentas
 
-  <a href="https://instagram.com/andre.moreirah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andremoreirah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### Linguagens
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="ruby"
-    title="ruby" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+* 🐍 Python
+* 💎 Ruby on Rails
+* C
+* HTML
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+### Banco de Dados
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+* PostgreSQL
 
-<br/>
-<br/>
+### Ferramentas
 
-### 📊 Estatísticas
+* Git
+* GitHub
+* Visual Studio Code
+* Ubuntu
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andre-moreirah&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 📚 Atualmente estudando
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-moreirah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+* Python
+* Ruby on rails
+* SQL
+* Programação Orientada a Objetos
+* Banco de Dados
+* Interfaces gráficas
+* APIs
+* Git e GitHub
 
-</p>
+---
 
+## 🚀 Objetivo
+
+Busco uma oportunidade de **estágio em desenvolvimento de software**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e continuar evoluindo como desenvolvedor.
+
+---
+
+## 📊 GitHub
+
+Utilizo este perfil para documentar meus estudos, projetos e minha evolução na área de desenvolvimento.
+
+---
+
+## 📫 Contato
+
+📩 **E-mail:** [andre21212@hotmail.com](mailto:andre21212@hotmail.com)
