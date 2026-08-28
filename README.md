@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou André Moreira
 
-💻 **Desenvolvedor em formação** 
+💻 **Desenvolvedor em formação** <br>
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 Atualmente estou desenvolvendo minhas habilidades em programação, com foco em **Python, C, Ruby on Rails, Ubuntu, banco de dados e desenvolvimento de software**.
