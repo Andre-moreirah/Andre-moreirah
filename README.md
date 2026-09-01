@@ -26,7 +26,6 @@ Tenho utilizado o GitHub para registrar minha evolução, praticar os conceitos 
 
 * Git
 * GitHub
-* Visual Studio Code
 * Ubuntu
 ---
 
@@ -57,4 +56,4 @@ Utilizo este perfil para documentar meus estudos, projetos e minha evolução na
 
 ## 📫 Contato
 
-📩 **E-mail:** [andre21212@hotmail.com](mailto:andre21212@hotmail.com)
+📩 **E-mail:** [andremoreiradev@hotmail.com](mailto:andremoreiradev@hotmail.com)
